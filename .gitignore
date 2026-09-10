@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+
+# Archives
+*.zip
+*.gz
+*tar
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+
