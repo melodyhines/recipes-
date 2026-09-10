@@ -11,4 +11,5 @@
 *.jpeg
 *.png
 
-
+# Ignore desserts subdirectory
+desserts/
